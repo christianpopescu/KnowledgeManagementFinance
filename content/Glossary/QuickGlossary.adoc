@@ -1,0 +1,14 @@
+= Quick Glossary
+Doc Writer <christian.popescu@outlook.com>
+v 1.0, 2020-09-14
+:sectnums:
+:toc:
+:toclevels: 5
+
+
+== Accrued Interest
+In accounting, *accrued interest* refers to the amount of interest that has been incurred, as of a specific date, on a loan or other financial obligation but has not yet been paid out.
+
+Accrued interest can either be in the form of accrued interest revenue, for the lender, or accrued interest expense, for the borrower.
+
+The term accrued interest can also refer to the amount of bond interest that has accumulated since the last time a bond interest payment was made.
