@@ -5,6 +5,8 @@ v 1.0, 2023-02-26
 :toc:
 :toclevels: 5
 
+== Introduction
+
 *Financial instruments* are assets that can be traded.
 
 
