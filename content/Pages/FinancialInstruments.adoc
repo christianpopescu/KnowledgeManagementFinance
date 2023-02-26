@@ -1,0 +1,21 @@
+= Financial Instruments
+Doc Writer <christian.popescu@outlook.com>
+v 1.0, 2023-02-26
+:sectnums:
+:toc:
+:toclevels: 5
+
+*Financial instruments* are assets that can be traded.
+
+
+* Financial instruments may be divided into two types: cash instruments and derivative instruments.
+
+* Financial instruments may also be divided according to an asset class, which depends on whether they are *debt-based* or *equity-based*.
+
+** *Equity-based* financial instruments represent ownership of an asset.
+
+**  *Debt-based* financial instruments represent a loan made by an investor to the owner of the asset.
+
+== Bibliography
+
+* https://www.investopedia.com/terms/f/financialinstrument.asp[Investopedia Financial Instrument]
