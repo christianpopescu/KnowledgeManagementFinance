@@ -1,0 +1,35 @@
+= Assets
+Doc Writer <christian.popescu@outlook.com>
+v 1.0, 2023-02-26
+:sectnums:
+:toc:
+:toclevels: 5
+
+== Assets
+
+An *asset* is a resource with economic value that an individual, corporation, or country owns or controls with the expectation that it will provide a future benefit.
+
+
+They're classified as
+* current
+* fixed
+* financial
+* intangible
+
+Assets are bought or created to increase a firm's value or benefit the firm's operations.
+
+=== Current Assets
+*Current assets* are short-term economic resources that are expected to be converted into cash or consumed within one year. Current assets include cash and cash equivalents, accounts receivable, inventory, and various prepaid expenses.
+
+=== Fixed Assets
+*Fixed assets* are resources with an expected life of greater than a year, such as plants, equipment, and buildings. An accounting adjustment called depreciation is made for fixed assets as they age. It allocates the cost of the asset over time. Depreciation may or may not reflect the fixed asset's loss of earning power.
+
+=== Financial Assets
+*Financial assets* represent investments in the assets and securities of other institutions. Financial assets include stocks, sovereign and corporate bonds, preferred equity, and other, hybrid securities. Financial assets are valued according to the underlying security and market supply and demand.
+
+=== Intangible Assets
+*Intangible assets* are economic resources that have no physical presence. They include patents, trademarks, copyrights, and goodwill. Accounting for intangible assets differs depending on the type of asset. They can be either amortized or tested for impairment each year
+
+== Bibliography
+
+https://www.investopedia.com/terms/a/asset.asp[Investopedia - Assets]

@@ -7,3 +7,5 @@ v 1.1, 2023-02-25
 
 
 link:Pages/FinancialInstruments.adoc[Financial Instruments]
+
+link:Pages/Assets.adoc[Assets]
