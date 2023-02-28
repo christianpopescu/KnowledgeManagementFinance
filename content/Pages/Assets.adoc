@@ -9,6 +9,7 @@ v 1.0, 2023-02-26
 
 An *asset* is a resource with economic value that an individual, corporation, or country owns or controls with the expectation that it will provide a future benefit.
 
+An asset is, therefore, something that is owned by you or something that is owed to you.
 
 They're classified as
 * current
@@ -30,6 +31,11 @@ Assets are bought or created to increase a firm's value or benefit the firm's op
 === Intangible Assets
 *Intangible assets* are economic resources that have no physical presence. They include patents, trademarks, copyrights, and goodwill. Accounting for intangible assets differs depending on the type of asset. They can be either amortized or tested for impairment each year
 
+
+== Non Current Assets (Fixed Assets)
+
 == Bibliography
 
 https://www.investopedia.com/terms/a/asset.asp[Investopedia - Assets]
+
+https://www.investopedia.com/terms/n/noncurrent-assets.asp[Invetopedia - Non Current Assets]
