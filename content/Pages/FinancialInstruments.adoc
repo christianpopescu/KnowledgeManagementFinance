@@ -9,6 +9,7 @@ v 1.0, 2023-02-26
 
 *Financial instruments* are assets that can be traded.
 
+Financial instruments can be real or virtual documents representing a legal agreement involving any kind of monetary value. Equity-based financial instruments represent ownership of an asset. Debt-based financial instruments represent a loan made by an investor to the owner of the asset.
 
 * Financial instruments may be divided into two types: cash instruments and derivative instruments.
 
