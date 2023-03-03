@@ -1,0 +1,21 @@
+= Cash
+Doc Writer <christian.popescu@outlook.com>
+v 1.1, 2023-02-25
+:sectnums:
+:toc:
+:toclevels: 5
+
+== Introduction
+*Cash* is legal tender—currency or coins—that can be used to exchange goods, debt, or services.
+
+Cash is also known as money, in physical form.
+
+Although cash typically refers to money in hand, the term can also be used to indicate money in banking accounts, checks, or any other form of currency that is easily accessible and can be quickly turned into physical cash.
+
+Cash in its physical form is the simplest, most broadly accepted and reliable form of payment, which is why many businesses only accept cash. Checks can bounce and credit cards can be declined, but cash in hand requires no extra processing.
+
+In finance and banking, cash indicates the company's current assets, or any assets that can be turned into cash within one year.
+
+== Bibliography
+
+https://www.investopedia.com/terms/c/cash.asp[Investopedia - Cash]
