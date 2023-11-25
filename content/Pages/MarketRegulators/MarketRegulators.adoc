@@ -1,0 +1,27 @@
+= Market regulators
+Doc Writer <christian.popescu@outlook.com>
+v 1.0, 2023-02-26
+:sectnums:
+:toc:
+:toclevels: 5
+
+
+== ESMA - European Securities and Market Authority
+
+ESMA is the EU’s financial markets regulator and supervisor.
+
+== AMF - Authorité des Marchés Financiaires
+
+
+Autorité publique indépendante, l’AMF est chargée de veiller à la protection de l’épargne investie en produits financiers, à l’information des investisseurs et au bon fonctionnement des marchés.
+
+== FCA - Financial Conduct Authority
+
+
+== CFTC - Commodity Futures Trading Commission
+
+The mission of the Commodity Futures Trading Commission is to promote the integrity, resilience, and vibrancy of the U.S. derivatives markets through sound regulation.
+
+== FINMA - Federal Financial Market Supervisory Authority
+
+Supervision of the financial market and financial institutions
