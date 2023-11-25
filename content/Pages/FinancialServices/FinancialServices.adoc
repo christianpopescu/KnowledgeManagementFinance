@@ -1,0 +1,13 @@
+= Financial Services
+Doc Writer <christian.popescu@outlook.com>
+v 1.0, 2023-11-25
+:sectnums:
+:toc:
+:toclevels: 5
+
+== DTCC - Depository Trust & Clearing Corporation
+
+The Depository Trust & Clearing Corporation (DTCC) is an American post-trade financial services company providing clearing and settlement services to the financial markets. It performs the exchange of securities on behalf of buyers and sellers and functions as a central securities depository by providing central custody of securities.
+
+
+

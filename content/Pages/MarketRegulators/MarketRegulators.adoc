@@ -1,6 +1,6 @@
 = Market regulators
 Doc Writer <christian.popescu@outlook.com>
-v 1.0, 2023-02-26
+v 1.0, 2023-11-25
 :sectnums:
 :toc:
 :toclevels: 5
