@@ -8,6 +8,10 @@ v 1.0, 2023-11-27
 
 == Introduction
 
+https://imarticus.org/blog/what-is-the-difference-between-trade-confirmation-and-affirmation/[]
+
+https://imarticus.org/blog/trade-life-cycle/[]
+
 == Definitions
 
 === Trade Affirmation
@@ -16,3 +20,6 @@ When one party claims the contents of an SB swap contract to its counterparty, a
 
 *Trade affirmation* is the process through which trade details are verified and agreed between the direct and indirect participants to a trade, for example, between an institution that has traded on behalf of a client and the client itself (the institution is the direct participant while the client is the indirect participant).
 
+=== Trade Confirmation
+
+*Trade confirmations* verify a trade's exact price. They assist with tax filings and settle any discrepancies. They can also use confirmations to check against monthly statements to ensure they correctly reflect the trades made on an account.
