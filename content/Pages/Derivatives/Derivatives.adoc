@@ -1,0 +1,16 @@
+= Derivatives
+Doc Writer <christian.popescu@outlook.com>
+v 1.0, 2023-11-27
+:sectnums:
+:toc:
+:toclevels: 5
+
+
+
+== Links
+
+https://www.investopedia.com/terms/e/exchange-traded-derivative.asp[]
+
+https://www.investopedia.com/ask/answers/052815/what-overthecounter-derivative.asp[]
+
+https://www.investopedia.com/terms/d/derivative.asp[]
